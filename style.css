@@ -12,9 +12,49 @@
     color: orange;
     text-align: center;
     
+    
 }
-button {background-color: orange;}
+button {
+    background-color: orange;
+}
+.contactus{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+   
+}
 
+.vlinderfloor{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 600px;
+}
+
+.galleryimg{
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.hometxt{
+    text-align: center;
+}
+
+.coffeemenu{
+    text-align: center;
+    font-size: 50px;
+}
+.coffeeitem{
+    text-align: center;
+    font-size: 20px;
+}
 body {
     background-color:moccasin;
 }

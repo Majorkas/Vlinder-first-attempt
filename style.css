@@ -67,3 +67,5 @@ button {
 body {
     background-color:moccasin;
 }
+.fbimg,.instaimg {width: 20px;
+height: auto;}

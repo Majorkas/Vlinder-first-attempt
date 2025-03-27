@@ -41,6 +41,14 @@ button {
     margin-right: auto;
     height: auto;
     width: 300px;
+    border: 2px solid black;
+}
+.warbler {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 300px;
 }
 
 .galleryimg{
@@ -49,6 +57,7 @@ button {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border: 3px solid black;
 }
 
 

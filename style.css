@@ -8,7 +8,7 @@
     margin-bottom: 10px;
 }
 
-#homebar{
+#homebar {
     color: orange;
     text-align: center;
     display: flex;
@@ -19,23 +19,19 @@
   margin: 0;
   padding: 0;
   list-style: none;
-    
-    
-    
 }
 button {
     background-color: orange;
 }
-.contactus{
+.contactus {
     margin-left: auto;
     margin-right: auto;
     display: block;
     margin-top: 30px;
     text-align: center;
-   
 }
 
-.vlinderfloor{
+.vlinderfloor {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -51,7 +47,7 @@ button {
     width: 300px;
 }
 
-.galleryimg{
+.galleryimg {
     height: auto;
     width: 300px;
     display: block;
@@ -61,20 +57,22 @@ button {
 }
 
 
-.hometxt{
+.hometxt {
     text-align: center;
 }
 
-.coffeemenu{
+.coffeemenu {
     text-align: center;
     font-size: 50px;
 }
-.coffeeitem{
+.coffeeitem {
     text-align: center;
     font-size: 20px;
 }
 body {
     background-color:moccasin;
 }
-.fbimg,.instaimg {width: 20px;
-height: auto;}
+.fbimg,.instaimg {
+    width: 20px;
+height: auto;
+}

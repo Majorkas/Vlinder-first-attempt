@@ -16,7 +16,7 @@
   flex-wrap: wrap;
   gap: 1rem;
   
-  margin: 0;
+  margin-bottom: 1em;
   padding: 0;
   list-style: none;
 }
@@ -56,12 +56,16 @@ button {
     border: 3px solid black;
 }
 
+.link {
+    text-decoration: none;
+    color: #2F5C65;
+}
 
 .hometxt {
     text-align: center;
 }
 
-.coffeemenu {
+h2 {
     text-align: center;
     font-size: 50px;
 }
@@ -70,7 +74,7 @@ button {
     font-size: 20px;
 }
 body {
-    background-color:moccasin;
+    background-color: moccasin;
 }
 .fbimg,.instaimg {
     width: 20px;

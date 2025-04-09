@@ -9,7 +9,7 @@
 }
 
 #homebar {
-    color: orange;
+    color: black;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -21,7 +21,8 @@
   list-style: none;
 }
 button {
-    background-color: orange;
+    background-color: #ffffffAA;
+    color: #2F5C65;
 }
 .contactus {
     margin-left: auto;
@@ -45,7 +46,7 @@ button {
     margin-right: auto;
     height: auto;
     width: 300px;
-    background-color: #ffa500AA;
+    background-color: #ffffffAA;
 }
 
 .galleryimg {
@@ -64,36 +65,32 @@ button {
 
 .hometxt {
     text-align: center;
-    background-color: #ffa500AA;
+    background-color: #ffffffAA;
+    color: #2F5C65;
 }
 
 h2 {
     text-align: center;
     font-size: 50px;
-    background-color: #ffa500AA;
+    background-color: #ffffffAA;
+    color: #2F5C65;
 }
 .coffeeitem {
     text-align: center;
     font-size: 20px;
+    background-color: #ffffffAA;
 }
-body, html {  
-    height: 100%;
-}
-
-.bgimg{
+body {  
     background-image: url(images/vlinder.jpg);
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
+    backdrop-filter: blur(6px);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
 
 
-}
-* {
-    box-sizing: border-box;
-}
+
 .fbimg,.instaimg {
     width: 20px;
 height: auto;

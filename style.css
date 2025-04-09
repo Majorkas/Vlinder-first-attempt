@@ -92,11 +92,13 @@ h2 {
 }
 body {  
     background-image: url(images/vlinder.jpg);
-    backdrop-filter: blur(6px);
+    backdrop-filter: blur(8px);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    border: #2F5C6590 solid 5px;
+    
 }
 
 

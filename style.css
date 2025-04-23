@@ -15,7 +15,7 @@
     justify-content: center;
   flex-wrap: wrap;
   gap: 1rem;
-  
+
   margin-bottom: 1em;
   padding: 0;
   list-style: none;
@@ -52,7 +52,7 @@ button {
 }
 
 .galleryimg {
-    height: auto;
+
     width: 80%;
     display: block;
     margin-left: auto;
@@ -90,7 +90,7 @@ h2 {
     border-radius: 50%;
     color:#2F5C65;
 }
-body {  
+body {
     background-image: url(images/vlinder.jpg);
     backdrop-filter: blur(8px);
     height: 100%;
@@ -98,7 +98,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     border: #2F5C6590 solid 5px;
-    
+
 }
 
 
@@ -106,4 +106,10 @@ body {
 .fbimg,.instaimg {
     width: 20px;
 height: auto;
+}
+
+.gallery {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 5px;
 }
